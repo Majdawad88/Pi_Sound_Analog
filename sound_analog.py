@@ -1,3 +1,5 @@
+#git clone https://github.com/Majdawad88/Pi_Sound_Analog.git
+
 import serial
 
 # The address of the serial port was determined above.
